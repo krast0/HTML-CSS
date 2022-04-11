@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.heading{
+    text-decoration:dashed;
+    text-transform: capitalize;
+    color: chocolate;
+    text-align: center;
+}
+.deadpoop{
+    display: flex;
+    width: 1000px;
+    height: 500px;
+    margin-left: 120px;
+}
+.poop{
+    display: inline-block;
+    
+}
